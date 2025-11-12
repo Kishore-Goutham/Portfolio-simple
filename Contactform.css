@@ -1,0 +1,78 @@
+body{
+    font-family:  "Young Serif", serif;
+    padding: 50px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.section-one,.section-three{
+    color: aliceblue;
+    background-color: black;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.section-one__name{
+    font-size: 60px;
+}
+
+.section-one__role{
+    font-size: 30px;
+}
+.section-one__home{
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.section-two{
+    margin-top: 20px;
+}
+
+
+.section-two__input1,.section-two__input2,.section-two__textarea{
+    margin-top: 10px;
+}
+
+.section-two__input1,.section-two__input2{
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-bottom: solid 1px;
+}
+
+.section-two__submit{
+    background-color: orangered;
+    padding: 10px;
+    border: none;
+
+}
+.section-two__textarea{
+    padding: 10px;
+}
+
+.section-three__des{
+    margin-top: 10px;
+}
+
+.section-three__title a {
+    color: aquamarine;
+}
+
+
+
+
+
+
+
+
+
+
+
